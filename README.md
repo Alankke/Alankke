@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Alankke
-- 👀 I’m interested in C, JAVA & Python
-- 🌱 I’m currently learning C & JAVA
-- 💞️ I’m looking to collaborate on IA
+- 👋 Hi, I’m @Alan Kennedy
+- 👀 I’m interested in JAVA, Javascript, MySQL
+- 🌱 I’m currently learning JAVA
 - 📫@alankennedy__ on instagram
 
 <!---
