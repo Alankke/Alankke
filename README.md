@@ -18,8 +18,8 @@ I'm currently learning Python, C#, Java, .NET and MySQL<br>Interested in Machine
 ### 🔝 Repo mas contribuido
 ![](https://github-contributor-stats.vercel.app/api?username=Alankke&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+## 💰 Para donar:
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KennedyAlann) 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Alankke&icon=5&color=9)](https://visitcount.itsvg.in)
-
-  ## 💰 Para donar:
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KennedyAlann) 
