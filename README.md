@@ -1,5 +1,5 @@
 # 💫 Sobre Mi:
-I'm currently learning Python, C#, Java, .NET and MySQL<br>Interested in Machine Learning, Deep Learning and AI
+I'm currently learning Python, C#, Java, .NET and SQLServer<br>Interested in Machine Learning, Deep Learning and AI
 
 
 ## 🌐 Redes:
