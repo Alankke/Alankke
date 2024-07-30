@@ -1,4 +1,4 @@
-# 💼 About:
+  # 💼 About:
 I'm currently learning and working with Python, C#, Java, .NET, Spring Boot, SQLServer and MySQL.<br/>
 Getting to know Flutter, Firebase and Dart.<br/>
 Pretty interested in Machine Learning, Deep Learning and APIs development.
@@ -10,7 +10,7 @@ Pretty interested in Machine Learning, Deep Learning and APIs development.
 [![Email](https://img.shields.io/badge/Email-f1e516?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjIiIHk9IjQiIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNiIgcng9IjIiIC8+PHBhdGggZD0iTTIyIDdsLTguOTcgNS43YTEuOTQgMS45NCAwIDAgMS0yLjA2IDBMMiA3IiAvPjwvc3ZnPg==)](mailto:alaneduardokennedy@gmail.com)
 
 # 💻 Tech Stack:
-<div style= "display: flex; justify-content: center">
+<div style= "display: grid; justify-content: center">
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" title="Java" height=60/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring Boot" title="Spring Boot" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" alt="C#" title="C#" height="60">
