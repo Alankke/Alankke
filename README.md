@@ -1,4 +1,7 @@
-  # 💼 About:
+# 👨‍💻 Me:
+I'm Alan, a backend software developer with proficiency in technologies such as Java, Springboot, C#, .NET, MySQL, SQL Server, H2 db and others that you can see in my repos.
+
+# 💼 About:
 I'm currently learning and working with Python, C#, Java, .NET, Spring Boot, SQLServer and MySQL.<br/>
 Getting to know Flutter, Firebase and Dart.<br/>
 Pretty interested in Machine Learning, Deep Learning and APIs development.
