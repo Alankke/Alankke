@@ -1,11 +1,6 @@
 # 👨‍💻 Me:
 I'm Alan, a fullstack software developer. Currently working freelance to meet the needs of clients ranging from small businesses to large corporations. I work on all types of projects, from backend and frontend development to deployment and maintenance of systems using deployment tools such as Railway or AWS. I identify client requirements and help solve problems through software. I am organized and my clients are always my priority when trying to resolve their concerns through my solutions.
 
-# 💼 About:
-I'm currently learning and working with Python, C#, Java, .NET, Spring Boot, SQLServer and MySQL.<br/>
-Getting to know Flutter, Firebase and Dart.<br/>
-Pretty interested in Machine Learning, Deep Learning and APIs development.
-
 # 🏗️ Tech stack:
 Java, Springboot.<br/>
 React, Typescript.<br/>
