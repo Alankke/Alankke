@@ -7,11 +7,11 @@ Getting to know Flutter, Firebase and Dart.<br/>
 Pretty interested in Machine Learning, Deep Learning and APIs development.
 
 # 🏗️ Tech stack:
-Java, Springboot.
-React, Typescript.
-PostgreSQL, MySQL, MS SQL server, H2, Firestore.
-Docker, AWS, RabbitMQ.
-HTML, CSS.
+Java, Springboot.<br/>
+React, Typescript.<br/>
+PostgreSQL, MySQL, MS SQL server, H2, Firestore.<br/>
+Docker, AWS, RabbitMQ.<br/>
+HTML, CSS.<br/>
 
 # 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/alankennedyy/) &nbsp; &nbsp; 
