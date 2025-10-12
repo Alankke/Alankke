@@ -3,7 +3,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&section=header&reversal=false&text=Full%20stack%20Developer&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&section=header&reversal=false&text=Full%20stack%20Developer&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
@@ -20,32 +20,32 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="32" alt="java logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="32" alt="spring logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="nextjs logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="32" alt="postgresql logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="mysql logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=git" height="32" alt="git logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo"  />
   <img width="16" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="32" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="32" alt="docker logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=aws" height="32" alt="amazonwebservices logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="32" alt="rabbitmq logo"  />
 </div>
 
 ###
