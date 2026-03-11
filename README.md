@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">21yo, +1 year of experience. College undergraduate in development based in Corrientes, Argentina. Specialized in full stack web application development.</h4>
+<h4 align="left">22yo, +2 years of experience. College undergraduate in development based in Corrientes, Argentina. Specialized in full stack web application development.</h4>
 
 ###
 
